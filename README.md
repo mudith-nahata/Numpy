@@ -4,13 +4,14 @@ Numpy is a library that uses in multipurpose in the feilds of Data Science,Machi
 Numpy is also called as Numerical Python
 
 # Advantages:
-Numpy is a module which use to perform the mathematicall operations quickly.
+ Numpy Use to perform the mathematicall operations quickly.
 
 # To Get:
 To install the Numpy Module or a Package then we can download all the variables and function and classes & Packages of Numpy using a command
-   Command:pip install numpy
+
+                                        Command:pip install numpy
    
-# Competencies/practicioner:
+# Competencies/HandsOn:
 -->Introduction
 
 -->Intial place holders of a Numpy Array
