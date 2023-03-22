@@ -9,7 +9,7 @@ Numpy is also called as Numerical Python
 # To Get:
 To install the Numpy Module or a Package then we can download all the variables and function and classes & Packages of Numpy using a command
 
-                                        Command:pip install numpy
+                                          Command:pip install numpy
    
 # Competencies/HandsOn:
 -->Introduction
