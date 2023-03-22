@@ -26,7 +26,7 @@ To install the Numpy Module or a Package then we can download all the variables 
 
 -->Reshaping
 
-# Documentation/Resources:
+# Resources:
 Link: https://numpy.org/
 
 
